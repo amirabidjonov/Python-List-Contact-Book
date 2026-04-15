@@ -8,7 +8,7 @@ Tavsif:
 """
 
 from typing import List
-
+  
 
 def show_menu() -> None:
     """Konsolda foydalanuvchi uchun menyuni chiqaradi."""
